@@ -1,0 +1,36 @@
+.card {
+    height: fit-content !important;
+    
+    &__wrapper {
+        margin-top: 2rem;
+    }
+
+    &__image {
+        display: flex;
+        & img {
+            width: 100%;
+            margin: 0 auto;
+            border-radius: var(--bs-border-radius);
+        }
+    }
+
+    &__title {
+        margin: 10px;
+    }
+
+    &__manufacturer {
+        color: #727272;
+    }
+
+    &__price {
+        text-align: end;
+        padding-right: 20px;
+        font-size: 28px;
+        font-weight: 600;
+    }
+
+    &__availability {
+        margin-left: 10px;
+        margin-bottom: 5px;
+    }
+} 

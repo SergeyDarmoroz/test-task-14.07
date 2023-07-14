@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Blended Sienna",
+            "manufacturer": "IntMeble",
+            "price": 10,
+            "productImg": "https://www.cama-meble.com.ua/Komody/Wood/Wood-4484b.jpg",
+            "available": true
+        },
+        {
+            "id": 2,
+            "title": "Blended Sienna",
+            "manufacturer": "IntMeble",
+            "price": 20,
+            "productImg": "https://www.cama-meble.com.ua/Komody/Wood/Wood-4484b.jpg",
+            "available": false
+        },
+        {
+            "id": 3,
+            "title": "Blended Sienna",
+            "manufacturer": "IntMeble",
+            "price": 30,
+            "productImg": "https://www.cama-meble.com.ua/Komody/Wood/Wood-4484b.jpg",
+            "available": true
+        },
+        {
+            "id": 4,
+            "title": "Blended Sienna",
+            "manufacturer": "IntMeble",
+            "price": 40,
+            "productImg": "https://www.cama-meble.com.ua/Komody/Wood/Wood-4484b.jpg",
+            "available": false
+        }
+    ]
+}
