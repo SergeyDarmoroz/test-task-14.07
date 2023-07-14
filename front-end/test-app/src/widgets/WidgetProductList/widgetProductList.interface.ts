@@ -6,4 +6,4 @@ export interface ProductInterface {
     price: number,
     productImg: string,
     available: boolean
-}
+};

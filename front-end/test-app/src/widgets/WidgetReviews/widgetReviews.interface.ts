@@ -4,4 +4,4 @@ export interface ReviewInterface {
   date: Date;
   rate: number;
   comment: string;
-}
+};
